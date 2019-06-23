@@ -1,2 +1,2 @@
 # testrepo
-To learn connecting to GitHub remotely.
+For learning to connect to GitHub remotely.
